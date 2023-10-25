@@ -1,0 +1,8 @@
+pydeck
+streamlit
+PyPDF2
+langchain
+openai
+tiktoken
+faiss-cpu
+seaborn
